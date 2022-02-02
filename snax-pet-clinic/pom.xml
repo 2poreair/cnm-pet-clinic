@@ -86,6 +86,5 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:2poreair/cnm-pet-clinic.git</developerConnection>
-	  <tag>snax-pet-clinic-0.0.3</tag>
-  </scm>
+ 	 </scm>
 </project>
