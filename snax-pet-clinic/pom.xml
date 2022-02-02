@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>cnm.snax</groupId>
 	<artifactId>snax-pet-clinic</artifactId>
-	<version>1.0.3-SNAPSHOT</version>
+	<version>1.0.3</version>
 	<name>snax-pet-clinic</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -86,5 +86,6 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:2poreair/cnm-pet-clinic.git</developerConnection>
+    <tag>snax-pet-clinic-1.0.3</tag>
   </scm>
 </project>
