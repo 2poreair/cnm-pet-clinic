@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>cnm.snax</groupId>
 	<artifactId>snax-pet-clinic</artifactId>
-	<version>1.0.5-SNAPSHOT</version>
+	<version>1.0.4-SNAPSHOT</version>
 	<name>snax-pet-clinic</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -67,6 +67,7 @@
 				<artifactId>maven-release-plugin</artifactId>
 				<configuration>
 					<goals>install</goals>
+					<autoVersionSubModules>true</autoVersionSubModules>
 				</configuration>
 			</plugin>
 			<plugin>
