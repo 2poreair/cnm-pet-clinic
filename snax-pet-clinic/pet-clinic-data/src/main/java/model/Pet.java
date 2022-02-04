@@ -1,4 +1,4 @@
-package cnm.snax.snaxpetclinic.model;
+package model;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package cnm.snax.snaxpetclinic;
+package snaxpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
