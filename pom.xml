@@ -4,7 +4,7 @@
 
 	<groupId>cnm.snax</groupId>
 	<artifactId>snax-pet-clinic</artifactId>
-	<version>1.0.4-SNAPSHOT</version>
+	<version>1.0.4</version>
 	<packaging>pom</packaging>
 
     <modules>
