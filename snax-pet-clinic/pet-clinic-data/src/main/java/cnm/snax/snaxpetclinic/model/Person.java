@@ -1,4 +1,4 @@
-package model;
+package cnm.snax.snaxpetclinic.model;
 
 public class Person {
     
