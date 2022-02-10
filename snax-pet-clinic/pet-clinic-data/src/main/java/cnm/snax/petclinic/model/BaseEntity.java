@@ -1,6 +1,4 @@
-package cnm.snax.snaxpetclinic.model;
-
-import lombok.extern.java.Log;
+package cnm.snax.petclinic.model;
 
 import java.io.Serializable;
 

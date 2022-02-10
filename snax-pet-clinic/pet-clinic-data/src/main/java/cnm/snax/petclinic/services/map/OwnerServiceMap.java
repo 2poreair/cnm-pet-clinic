@@ -1,7 +1,7 @@
-package cnm.snax.snaxpetclinic.services.map;
+package cnm.snax.petclinic.services.map;
 
-import cnm.snax.snaxpetclinic.model.Owner;
-import cnm.snax.snaxpetclinic.services.CrudService;
+import cnm.snax.petclinic.model.Owner;
+import cnm.snax.petclinic.services.CrudService;
 
 import java.util.Set;
 

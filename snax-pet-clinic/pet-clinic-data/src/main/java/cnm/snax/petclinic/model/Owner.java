@@ -1,4 +1,4 @@
-package cnm.snax.snaxpetclinic.model;
+package cnm.snax.petclinic.model;
 
 public class Owner extends Person{
     

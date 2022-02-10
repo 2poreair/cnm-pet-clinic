@@ -1,6 +1,6 @@
-package cnm.snax.snaxpetclinic.services;
+package cnm.snax.petclinic.services;
 
-import cnm.snax.snaxpetclinic.model.Owner;
+import cnm.snax.petclinic.model.Owner;
 
 public interface OwnerService extends CrudService<Owner, Long>{
 

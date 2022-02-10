@@ -1,4 +1,4 @@
-package cnm.snax.snaxpetclinic.services;
+package cnm.snax.petclinic.services;
 
 import java.util.Set;
 

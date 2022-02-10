@@ -1,4 +1,4 @@
-package cnm.snax.snaxpetclinic.services.map;
+package cnm.snax.petclinic.services.map;
 
 import java.util.HashMap;
 import java.util.HashSet;
