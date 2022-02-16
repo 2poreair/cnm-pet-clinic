@@ -1,7 +1,6 @@
 package cnm.snax.petclinic.services.map;
 
 import cnm.snax.petclinic.model.Vet;
-import cnm.snax.petclinic.services.CrudService;
 import cnm.snax.petclinic.services.VetService;
 import org.springframework.stereotype.Service;
 
@@ -26,7 +25,7 @@ public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetS
 
     @Override
     public Vet save(Vet object) {
-        return super.save(object.getId(), object);
+        return super.save(object);
     }
 
     @Override
